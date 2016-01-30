@@ -78,18 +78,18 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 * Backpack:
 * BeagleBone:
-* Bit:
-* Bit shift:
-* Bitwise operator:
-* Board:
+* Bit: Binary number 1 or 0
+* Bit shift: Operation on a number at a bit level
+* Bitwise operator: 
+* Board: abbr Circuit board. Electronic circuit usually laminated to a non conductive substrate 
 * Bootloader:
-* Breadboard:
+* Breadboard: construction base used for prototyping
 * Breakout board:
-* Byte:
+* Byte: 8 bits
 
 ### C
 
-* Capacitor:
+* Capacitor: two terminal component that stores electrically charge
 * Capacitive:
 * Cape:
 * **Cathode**:
@@ -104,11 +104,11 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 ### D
 
-* DAC:
+* DAC: Digital Analogue Converter. Function to convert digital to analogue
 * Datasheet:
 * DC:
 * Decoupling:
-* Desolder:
+* Desolder: The process of removing solder to free components
 * Digital-to-Analog Conversion:
 * Digital-to-Analog Converter (DAC):
 * Diode:
@@ -121,7 +121,7 @@ The format of this glossary is modeled after [HugoGiraudel/SJSJ](https://github.
 
 * Eagle:
 * Edison:
-* EEPROM:
+* EEPROM: Electrically Erasable Programmable Read-Only Memory. rewritable non-volatile memory
 * Electric Imp:
 * Electroluminescent wire:
 * EL wire:
